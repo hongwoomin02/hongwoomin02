@@ -5,5 +5,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying on PKNU  ...
-- 🌱 I’m currently learning Computer Engineering
+## 🔭 I’m currently studying on PKNU  ...
+## 🌱 I’m currently learning Computer Engineering
