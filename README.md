@@ -1,4 +1,4 @@
-## Hi there 👋
+## OSS 수업 관련👋
 ## 🔭 I’m currently studying on PKNU  ...
 ## 🌱 I’m currently learning Computer Engineering
 
